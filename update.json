@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.2/ChenXiReader-win-x64.zip",
-  "sha256": "8eb512d1125f58934b36f11d5987a084ea0a241f930bb8b3f11c866da31c977a",
-  "notes": "优化 Alt 菜单、书源管理键盘操作，并适配脚本接口类书源。"
+  "version": "1.0.3",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.3/ChenXiReader-win-x64.zip",
+  "sha256": "b0cf396526bc3b180cbf5e1a1d358c76198074177a166f9c105a8ce51b00954e",
+  "notes": "自动配置公开更新源，新装用户首次运行即可生成已填好的 UserData\\\\update.json。"
 }

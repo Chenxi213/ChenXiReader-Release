@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.3/ChenXiReader-win-x64.zip",
-  "sha256": "b0cf396526bc3b180cbf5e1a1d358c76198074177a166f9c105a8ce51b00954e",
-  "notes": "自动配置公开更新源，新装用户首次运行即可生成已填好的 UserData\\\\update.json。"
+  "version": "1.0.4",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.4/ChenXiReader-win-x64.zip",
+  "sha256": "b922f32050706bd4215289ed0109f234beb0503679601eedafa504b4151bb4a6",
+  "notes": "重构主界面：书架、平台筛选、搜索框和结果列表集中在首页；优化 Alt 菜单和搜索结果操作菜单。"
 }

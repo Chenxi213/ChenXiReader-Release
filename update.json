@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.7/ChenXiReader-win-x64.zip",
-  "sha256": "c5d080f659b9a3ff14c706d03aff113678ab6cb0097c5fcc5f34f29292f27257",
-  "notes": "新增自动安装更新器：软件下载更新包后可自动关闭、覆盖新版文件并重新启动；继续保留 UserData 数据目录。"
+  "version": "1.0.8",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.8/ChenXiReader-win-x64.zip",
+  "sha256": "75605a378ed678c544b073b0beb2d841fe250f1a620a9543fd3f520863e7216c",
+  "notes": "修复旧版 UserData\\\\update.json 为空或损坏时导致自动更新未配置的问题；程序会自动恢复默认公开更新源。"
 }

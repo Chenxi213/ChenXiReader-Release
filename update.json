@@ -1,6 +1,6 @@
 {
-  "version": "1.0.21",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.21/ChenXiReader-win-x64.zip",
-  "sha256": "e65ec70bc257e0495b7186ee6cea1864b9531fe923a3559bd4fcdf9951fb701f",
-  "notes": "修复真人音频播放匹配：从小说结果播放时优先搜索同名听书结果；支持书名模糊匹配，并去掉副标题后再搜，避免小说名与听书名不完全一致导致无法播放。"
+  "version": "1.0.22",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.22/ChenXiReader-win-x64.zip",
+  "sha256": "4e091a75d08d0484d03e18a5700bf6de5e57c75aef12406f06c219318e15a981",
+  "notes": "增强阅读和听书体验：阅读页语音库加入番茄真人有声和番茄AI音色，支持语速调节；书架显示章节进度和状态；书架菜单新增听书；回车直接继续朗读；阅读页回车打开目录并可选择章节阅读或播放。"
 }

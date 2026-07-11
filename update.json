@@ -1,6 +1,6 @@
 {
-  "version": "1.0.18",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.18/ChenXiReader-win-x64.zip",
-  "sha256": "24c39367d6af166d24ba3013b0c6ed2fbcc31114a565ecdec65686a2a515a257",
-  "notes": "针对用户提供的大灰狼融合5.5.22书源修复：支持 JSON 格式 header，正确带安卓 User-Agent；从 jsLib 默认参数读取 sources=全部、tab=小说；搜索按书源真实默认规则请求，已实测 source=全部 可返回正常书名列表。"
+  "version": "1.0.19",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.19/ChenXiReader-win-x64.zip",
+  "sha256": "7a85036f5bdb59b33e17418d1603296a7ae84a8e5c8a746cd2f7f74d82ecc649",
+  "notes": "修复大灰狼融合正文/音频：账号管理里的密钥会作为 qttoken 和 deviceId Cookie 传入；正文遇到免登录上限时提示填写书源密钥；音频播放过滤无效 URI，避免 Invalid URI 报错。"
 }

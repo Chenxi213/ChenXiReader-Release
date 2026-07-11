@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.8/ChenXiReader-win-x64.zip",
-  "sha256": "75605a378ed678c544b073b0beb2d841fe250f1a620a9543fd3f520863e7216c",
-  "notes": "修复旧版 UserData\\\\update.json 为空或损坏时导致自动更新未配置的问题；程序会自动恢复默认公开更新源。"
+  "version": "1.0.9",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.9/ChenXiReader-win-x64.zip",
+  "sha256": "f81261b29057a21a087fc22231c567a105f130ee565e585f192b18904eeee3bb",
+  "notes": "修复书源列表和搜索结果列表朗读类名的问题；修复应用键不弹菜单；导入书源后自动启用、自动检测并语音提示结果。"
 }

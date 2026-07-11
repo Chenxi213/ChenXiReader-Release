@@ -1,6 +1,6 @@
 {
-  "version": "1.0.17",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.17/ChenXiReader-win-x64.zip",
-  "sha256": "37f51b32d60b861fe9668979a0e716665498321799cd815795b494bc060733bf",
-  "notes": "修正大灰狼融合书源适配方向：不再把免登录上限误判为必须登录；搜索优先使用书源自身默认 source/tab，不再硬塞大灰狼/番茄入口；禁止 vip、打赏、赞助等广告入口，同时允许空 source 由接口自行决定。"
+  "version": "1.0.18",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.18/ChenXiReader-win-x64.zip",
+  "sha256": "24c39367d6af166d24ba3013b0c6ed2fbcc31114a565ecdec65686a2a515a257",
+  "notes": "针对用户提供的大灰狼融合5.5.22书源修复：支持 JSON 格式 header，正确带安卓 User-Agent；从 jsLib 默认参数读取 sources=全部、tab=小说；搜索按书源真实默认规则请求，已实测 source=全部 可返回正常书名列表。"
 }

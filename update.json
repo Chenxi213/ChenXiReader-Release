@@ -1,6 +1,6 @@
 {
-  "version": "1.0.14",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.14/ChenXiReader-win-x64.zip",
-  "sha256": "9de3ece958e530922df8bf5465b208bdeb0bc49e0bc8a9ad58cdb530ab136acc",
-  "notes": "使用 Windows 底层消息捕获 Application/上下文菜单键，行为更接近资源管理器；新增搜大灰狼平台；搜索结果过滤空书名、乱码标题和 VIP/付费结果，并增强大灰狼字段解析。"
+  "version": "1.0.15",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.15/ChenXiReader-win-x64.zip",
+  "sha256": "84c6bf92e6c1f76952c4e4d576c53394ccae543f71e73bf15545710786e5c30a",
+  "notes": "账号管理增强：裸 token 会兼容尝试 Cookie、Authorization、X-Token 等方式，并提示应粘贴完整浏览器 Cookie；大灰狼搜索过滤打赏、赞助、@vip、获取更多搜索资源等广告结果；登录提示改为大灰狼脚本接口说明。"
 }

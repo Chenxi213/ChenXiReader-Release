@@ -1,6 +1,6 @@
 {
-  "version": "1.0.19",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.19/ChenXiReader-win-x64.zip",
-  "sha256": "7a85036f5bdb59b33e17418d1603296a7ae84a8e5c8a746cd2f7f74d82ecc649",
-  "notes": "修复大灰狼融合正文/音频：账号管理里的密钥会作为 qttoken 和 deviceId Cookie 传入；正文遇到免登录上限时提示填写书源密钥；音频播放过滤无效 URI，避免 Invalid URI 报错。"
+  "version": "1.0.20",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.20/ChenXiReader-win-x64.zip",
+  "sha256": "69ac1febc5420d2550d36c03c257941654b80aac3bd0af7bc9835fd9c66c648b",
+  "notes": "修复自动更新：下载超时从 60 秒加长到 45 分钟；支持断点续传和 5 次重试；失败会保留临时文件下次续传；安装失败会自动打开 update.log，主程序失败提示可打开更新目录。"
 }

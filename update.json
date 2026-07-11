@@ -1,6 +1,6 @@
 {
-  "version": "1.0.13",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.13/ChenXiReader-win-x64.zip",
-  "sha256": "cd37809b1ba0bf4ab4f5823e3f7a903ca63477a1c07385a0d6ceac5b11958f37",
-  "notes": "彻底修复上下文菜单键：主窗口不再抢占列表菜单；搜索结果、书架和书源列表均可用上下文菜单键打开对应菜单；书架列表新增开始阅读、查看详情、删除菜单。"
+  "version": "1.0.14",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.14/ChenXiReader-win-x64.zip",
+  "sha256": "9de3ece958e530922df8bf5465b208bdeb0bc49e0bc8a9ad58cdb530ab136acc",
+  "notes": "使用 Windows 底层消息捕获 Application/上下文菜单键，行为更接近资源管理器；新增搜大灰狼平台；搜索结果过滤空书名、乱码标题和 VIP/付费结果，并增强大灰狼字段解析。"
 }

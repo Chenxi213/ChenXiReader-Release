@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.9/ChenXiReader-win-x64.zip",
-  "sha256": "f81261b29057a21a087fc22231c567a105f130ee565e585f192b18904eeee3bb",
-  "notes": "修复书源列表和搜索结果列表朗读类名的问题；修复应用键不弹菜单；导入书源后自动启用、自动检测并语音提示结果。"
+  "version": "1.0.10",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.10/ChenXiReader-win-x64.zip",
+  "sha256": "19d9d6de3ea648a2ac4c02235a3b654b9d88e5d3371f6e907da217f213d48c38",
+  "notes": "优化番茄/大灰狼听书播放：增强音频地址识别，并在小说结果播放失败时自动尝试同名听书结果；搜索结果列表只用上下文菜单键呼出菜单；ALT 书源菜单移除刷新、检测、启用禁用和删除。"
 }

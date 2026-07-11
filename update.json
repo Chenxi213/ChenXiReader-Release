@@ -1,6 +1,6 @@
 {
-  "version": "1.0.11",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.11/ChenXiReader-win-x64.zip",
-  "sha256": "f098e83949ba0f6e27b5cd42abf0b40ad8d1560985f1818c97c6304d0cf1b3b2",
-  "notes": "上下文菜单只保留上下文菜单键呼出，不再提示 Shift+F10；大灰狼等书源返回免登录次数上限时明确提示需要登录；番茄/大灰狼音频失败时记录诊断日志到 UserData\\\\Logs，便于继续适配。"
+  "version": "1.0.12",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.12/ChenXiReader-win-x64.zip",
+  "sha256": "129584ab172a85b2936993eaa0bdf5bceb96e46fb73870e96306eb9a57fb1826",
+  "notes": "修复上下文菜单键被主菜单抢占的问题；ALT 主菜单新增账号管理-大灰狼，可保存本机 Cookie；大灰狼相关书源请求会自动带登录信息，并额外尝试大灰狼小说/听书来源。"
 }

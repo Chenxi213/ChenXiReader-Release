@@ -1,6 +1,6 @@
 {
-  "version": "1.0.16",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.16/ChenXiReader-win-x64.zip",
-  "sha256": "db26691d2480071ed47868975015724895e8155df71833a6cca2685da7b7ce90",
-  "notes": "继续增强大灰狼账号适配：将裸 token 合并为单条 Cookie 并增加多种 token 请求头；正文和音频接口会把 token 写入 variable.custom/token/auth/access_token 等字段，兼容脚本接口读取方式。"
+  "version": "1.0.17",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.17/ChenXiReader-win-x64.zip",
+  "sha256": "37f51b32d60b861fe9668979a0e716665498321799cd815795b494bc060733bf",
+  "notes": "修正大灰狼融合书源适配方向：不再把免登录上限误判为必须登录；搜索优先使用书源自身默认 source/tab，不再硬塞大灰狼/番茄入口；禁止 vip、打赏、赞助等广告入口，同时允许空 source 由接口自行决定。"
 }

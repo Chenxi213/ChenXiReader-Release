@@ -1,6 +1,6 @@
 {
-  "version": "1.0.23",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.23/ChenXiReader-win-x64.zip",
-  "sha256": "d1f134a80b8c85200f4445d581e7d8f602fc21cb7939bad394712dde1b3909d8",
-  "notes": "增强真人朗读页：目录改为按钮，回车弹目录列表，上下光标循环浏览，选中回车播放；新增播放进度条和时间显示，支持方向键调进度；真人语音选项显示主播或来源名，切换真人来源会同步切换目录；番茄AI和真人音频支持0.5到2.0倍速。"
+  "version": "1.0.24",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.24/ChenXiReader-win-x64.zip",
+  "sha256": "e9236c65a72ac2397b660de5dfc65f986caf2b9046ea08f6049c4340e4d845d1",
+  "notes": "拆分阅读和听书模式：书架回车和开始阅读进入本机语音阅读页；听书进入番茄AI听书页并继续上次集数；新增有声书子菜单，只列出同书名同作者的真人版本，显示主播工作室、集数和状态；全网有声搜索同时覆盖听书tab，避免跳到类似书。"
 }

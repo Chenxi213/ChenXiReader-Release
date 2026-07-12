@@ -1,6 +1,6 @@
 {
-  "version": "1.0.25",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.25/ChenXiReader-win-x64.zip",
-  "sha256": "f632eecd2aa8b23365916163b8b1f745c664095f6576247721cc9a283bc11e89",
-  "notes": "修复搜索结果排序同书名同作者优先;修复真人朗读不再跳到别的书;搜索结果回车可直接阅读;退格键和ESC可返回上一页;阅读页任何位置按回车弹出目录。"
+  "version": "1.0.26",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.26/ChenXiReader-win-x64.zip",
+  "sha256": "731de6ca6226765999e26af3dd19d70e1dcce460f8e6d46ba1945b5baaba1e9b",
+  "notes": "补全9个番茄AI音色;放宽喜马拉雅酷我有声书标题匹配;ESC回主界面;空格全局播放暂停;退格键返回上一页。"
 }

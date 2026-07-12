@@ -1,6 +1,6 @@
 {
-  "version": "1.0.27",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.27/ChenXiReader-win-x64.zip",
-  "sha256": "85c44273cefa5ebb727e7c0c11c8d38d07ae7c1aaea5194ebcc356dc55abe08d",
-  "notes": "听书自动连播下一集;播放失败自动跳过连续3次才停止;最后一集播完提示已播完。"
+  "version": "1.0.28",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.28/ChenXiReader-win-x64.zip",
+  "sha256": "b9fa3dcdcf355c8d6666e59d893c696a2a16df1d1fed7ac9923bbe52c0828b23",
+  "notes": "修复搜索结果点真人朗读和AI朗读无法播放的问题;小说tab自动切换听书tab获取音频。"
 }

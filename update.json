@@ -1,6 +1,6 @@
 {
-  "version": "1.0.28",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.28/ChenXiReader-win-x64.zip",
-  "sha256": "b9fa3dcdcf355c8d6666e59d893c696a2a16df1d1fed7ac9923bbe52c0828b23",
-  "notes": "修复搜索结果点真人朗读和AI朗读无法播放的问题;小说tab自动切换听书tab获取音频。"
+  "version": "1.0.29",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.29/ChenXiReader-win-x64.zip",
+  "sha256": "12c5aecd5aa11bde1b4209ee98faa239e781f47ada680d84b35380d290bac980",
+  "notes": "修复空格全局播放暂停;搜索结果不自动加入书架;ALT菜单播放历史;F1切换声卡。"
 }

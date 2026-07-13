@@ -1,6 +1,6 @@
 {
-  "version": "1.0.33",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.33/ChenXiReader-win-x64.zip",
-  "sha256": "4891da4fe519ab79cea18926658439a21d9da50cd55a5369314bb2e7e25a7b05",
-  "notes": "音色选择回车生效;SoundTouch倍速不变调;书架播放按钮;排行榜框架+番茄热门/推荐。"
+  "version": "1.0.34",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.34/ChenXiReader-win-x64.zip",
+  "sha256": "bb71c12938cb79c64e8abcf6cc007e4d18e978b134c98034a14c86ad21d80834",
+  "notes": "排行榜回车进入;喜马拉雅排行榜;SoundTouch倍速不变调;导航优化。"
 }

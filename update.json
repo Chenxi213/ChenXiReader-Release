@@ -1,6 +1,6 @@
 {
-  "version": "1.0.32",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.32/ChenXiReader-win-x64.zip",
-  "sha256": "329c3e944ab32adbcdf09af3cc61dff4bd1580e3923becd7975fe6cf2f157419",
-  "notes": "修复AI音色映射;切换播放自动停止旧播放;倍速生效;搜索结果小说优先排序;平台筛选重构;下载功能;搜索按钮+进度条+播放控制;空格搜索框内播放暂停。"
+  "version": "1.0.33",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.33/ChenXiReader-win-x64.zip",
+  "sha256": "4891da4fe519ab79cea18926658439a21d9da50cd55a5369314bb2e7e25a7b05",
+  "notes": "音色选择回车生效;SoundTouch倍速不变调;书架播放按钮;排行榜框架+番茄热门/推荐。"
 }

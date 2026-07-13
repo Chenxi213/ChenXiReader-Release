@@ -1,6 +1,6 @@
 {
   "version": "1.0.29",
   "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.29/ChenXiReader-win-x64.zip",
-  "sha256": "12c5aecd5aa11bde1b4209ee98faa239e781f47ada680d84b35380d290bac980",
+  "sha256": "2c6635701a972f1608b70bf26174b8207c9267298d66b10f6e971591ec7f8540",
   "notes": "修复空格全局播放暂停;搜索结果不自动加入书架;ALT菜单播放历史;F1切换声卡。"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "1.0.39",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.39/ChenXiReader-win-x64.zip",
-  "sha256": "92003ceaacd71837123866b7a5c7bc217bf3577026052453eb6ab392cd4eae10",
-  "notes": "番茄排行榜APP风格:推荐榜完本榜切换+分类标签筛选+卡片样式。"
+  "version": "1.0.40",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.40/ChenXiReader-win-x64.zip",
+  "sha256": "20e6a8f090d45eb4e5b5ff750b24fc8b2c5c908427148a1892f37e0863849617",
+  "notes": "番茄排行榜:推荐榜/完本榜+男生女生筛选+分类标签。"
 }

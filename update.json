@@ -1,6 +1,6 @@
 {
-  "version": "1.0.42",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.42/ChenXiReader-win-x64.zip",
-  "sha256": "27319bcd1db17f2cbc777762396fbb547fbc741a4c811395310971070057cf27",
-  "notes": "喜马拉雅排行榜改造:男频女频筛选+分类标签+列表样式。"
+  "version": "1.0.43",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.43/ChenXiReader-win-x64.zip",
+  "sha256": "27bfdaa3eeed3feb92869d8392e5a71b87b023718c6ce8078f528f09a30408c1",
+  "notes": "七猫排行榜改造:混合方案+推荐榜/大热榜/完结榜/好评榜+男生女生筛选+分类标签。"
 }

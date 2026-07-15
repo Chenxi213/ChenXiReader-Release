@@ -1,6 +1,6 @@
 {
-  "version": "1.0.51",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.51/ChenXiReader-win-x64.zip",
-  "sha256": "580f0be53af5f539f22e5764a992f9fa8e91641ef596822b15c13dddc9b50455",
+  "version": "1.0.52",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.52/ChenXiReader-win-x64.zip",
+  "sha256": "02745c3e6b139b58f865754741713fb25a4b2e96039dcb8ff9c53a42f50fca2d",
   "notes": "字体调节+书架分组+阅读进度记忆+真人听书音色选择。"
 }

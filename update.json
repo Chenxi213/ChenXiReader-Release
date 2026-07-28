@@ -1,6 +1,6 @@
 {
-  "version": "1.0.70",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.70/ChenXiReader-win-x64.zip",
-  "sha256": "3b473fa7a8d2aa7113d9665a9595195b676ebcab7daa39ee3b6390a9ca1fb04c",
+  "version": "1.0.71",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.71/ChenXiReader-win-x64.zip",
+  "sha256": "f7de13849afdd4c2d03e21e197879afcb9657f7c7b869689070a1ca9cac86ffd",
   "notes": "v1.0.70: 新增大灰狼短剧源 + 高清视频播放 + 自动连播 + 倍速播放 + 进度记忆 + 智能内容路由。"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "1.0.79",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.79/ChenXiReader-win-x64.zip",
-  "sha256": "40ae215e7b99e760d43ef6ec40e162cc1ce7c4addbcff706cfc3a3bee76b5f27",
-  "notes": "辰曦读书 v1.0.79 - 源管理优化与音乐播放增强"
+  "version": "1.0.80",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.80/ChenXiReader-win-x64.zip",
+  "sha256": "6299ce1a98cbfde52f533f3dd39fcc78a0c5b241a8571a5a8d2d1a8494eff701",
+  "notes": "辰曦读书 v1.0.80 - 主界面简化与源管理导航重构"
 }

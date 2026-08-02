@@ -1,6 +1,6 @@
 {
-  "version": "1.0.85",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.85/ChenXiReader-win-x64.zip",
-  "sha256": "c6400556da0b5f91ddc312dea5b0b3b21851e2a093470385c0451d3368cc4463",
+  "version": "1.0.86",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.86/ChenXiReader-win-x64.zip",
+  "sha256": "8e840836c5f13ab845abd194e8c0301f2f49e64dc6beffe0f362f28841268b8b",
   "notes": "辰曦读书 v1.0.85 - 深度修复音乐播放与影视搜索"
 }

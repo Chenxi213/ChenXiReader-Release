@@ -1,6 +1,6 @@
 {
-  "version": "1.0.81",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.81/ChenXiReader-win-x64.zip",
-  "sha256": "bd5143888bf4f51894cb6ef563073c023a3644bf454fc3438b2d9e40d45963a2",
-  "notes": "辰曦读书 v1.0.81 - 内置音源/影视源、修复导入功能"
+  "version": "1.0.82",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.82/ChenXiReader-win-x64.zip",
+  "sha256": "5b9b242ec01f87378bbb94887b1560a2080bc12bc20e355d94de20f601c86fc4",
+  "notes": "辰曦读书 v1.0.82 - 修复影视源加载与玉宁熙内置方式"
 }

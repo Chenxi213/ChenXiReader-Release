@@ -1,6 +1,6 @@
 {
   "version": "1.0.84",
   "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.84/ChenXiReader-win-x64.zip",
-  "sha256": "9c118c42f815913bad4c4ea0b86ca970447642f0eb2570aa30ed396ed7eaa7e8",
-  "notes": "辰曦读书 v1.0.83 - 修复源列表显示与播放失败"
+  "sha256": "2f95edd9e8fbe8fb9bbece3d11b4776638c3c1dbd879fc65b70c37221707bcea",
+  "notes": "辰曦读书 v1.0.84 - 修复音乐播放无声音与影视搜索无结果"
 }

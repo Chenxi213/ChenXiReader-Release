@@ -1,6 +1,6 @@
 {
-  "version": "1.0.102",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.102/ChenXiReader-win-x64.zip",
-  "sha256": "d6fe853f26ce8ffdd79d14118479908d4d923a778d5f8d0d9980639d0c3b981f",
-  "notes": "辰曦读书 v1.0.102 - 参考辰曦音乐架构彻底修复（自定义源songId直取，不搜索其他平台）"
+  "version": "1.0.104",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.104/ChenXiReader-win-x64.zip",
+  "sha256": "ef13d35c147498ad2eee1a1a15a9725db7cdab7d0a17ece2d56c8d7aa16615b2",
+  "notes": "辰曦读书 v1.0.104 - 修复v1.0.103编译错误+音乐自定义API源全面修复"
 }

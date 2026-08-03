@@ -1,6 +1,6 @@
 {
-  "version": "1.0.94",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.94/ChenXiReader-win-x64.zip",
-  "sha256": "48b632bde60cae7289b0b0c4e325abc54b47bae40d93b503591b8fded17995d4",
-  "notes": "辰曦读书 v1.0.94 - 修复音乐播放回退/短剧崩溃/有声书空引用/倍速菜单"
+  "version": "1.0.95",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.95/ChenXiReader-win-x64.zip",
+  "sha256": "407ba49659b9f87a08a959f64b82405043ad4b96da129ef48fec8fb73bec99a3",
+  "notes": "辰曦读书 v1.0.95 - 落雪式音乐播放性能优化（缓存+并行竞速+预加载+熔断）"
 }

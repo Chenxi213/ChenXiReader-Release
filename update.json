@@ -1,6 +1,6 @@
 {
-  "version": "1.0.100",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.100/ChenXiReader-win-x64.zip",
-  "sha256": "6e88b4416185e9bba348aa8fa7f8f2f9f061b79bcc887a83a1612b666bb6d59c",
-  "notes": "辰曦读书 v1.0.100 - 落雪式音频时长校验 + 宽松回退避免播放失败"
+  "version": "1.0.101",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.101/ChenXiReader-win-x64.zip",
+  "sha256": "88396c8eee7da38b15187c87e9b7d17d168dcbc743c5934288840805becfa291",
+  "notes": "辰曦读书 v1.0.101 - 彻底修复播错版本（删除不可靠时长校验+落雪式源优先+严格匹配）"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "1.0.109",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.109/ChenXiReader-win-x64.zip",
-  "sha256": "8af48116e434576196142ee65e38e2a1bfa0362011b04ad944d7cc44ca6c0c7b",
-  "notes": "辰曦读书 v1.0.109 - 修复真人朗读播放失败(音色候选增加默认音色兜底)"
+  "version": "1.0.110",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.110/ChenXiReader-win-x64.zip",
+  "sha256": "92a36bde21406e365fee2d6af89bf612ff37a546d51a49a23d194435aae501cb",
+  "notes": "辰曦读书 v1.0.110 - 修复有声书播放失败(POST请求移除短超时)"
 }

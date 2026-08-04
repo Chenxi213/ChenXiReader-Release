@@ -1,6 +1,6 @@
 {
   "version": "1.0.108",
   "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.108/ChenXiReader-win-x64.zip",
-  "sha256": "2d1221bdf0661c98130ca17d92fda01abd81363d2cf3050f02e304986162c986",
-  "notes": "辰曦读书 v1.0.108 - 有声书搜索结果拆分真人/AI朗读+真人朗读音色固定+大灰狼服务器并行测速"
+  "sha256": "59cdcc2e1d1a5c43ccf59fa8f17c7f4242aa6a91a70418d85ffd2133182c4728",
+  "notes": "辰曦读书 v1.0.108 - 有声书搜索结果拆分真人/AI朗读+真人朗读音色固定+大灰狼服务器超时切换"
 }

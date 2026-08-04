@@ -1,6 +1,6 @@
 {
-  "version": "1.0.112",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.112/ChenXiReader-win-x64.zip",
-  "sha256": "e2fbc72f51ce18cc59bfccbf1f69c1b09125c0bdccbd7b8500cc4b759c32a647",
+  "version": "1.0.113",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.113/ChenXiReader-win-x64.zip",
+  "sha256": "667d0a8012f9585443225c92f52243d2f3e8f5e0a6d892951a9e8936fdc9d81d",
   "notes": "辰曦读书 v1.0.111 - 修复影视搜索无结果(搜索超时大幅提升)"
 }

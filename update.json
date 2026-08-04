@@ -1,6 +1,6 @@
 {
-  "version": "1.0.104",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.104/ChenXiReader-win-x64.zip",
-  "sha256": "ef13d35c147498ad2eee1a1a15a9725db7cdab7d0a17ece2d56c8d7aa16615b2",
-  "notes": "辰曦读书 v1.0.104 - 修复v1.0.103编译错误+音乐自定义API源全面修复"
+  "version": "1.0.105",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.105/ChenXiReader-win-x64.zip",
+  "sha256": "dc23bfaaced7bdf6797a38d5e3d818c649149827a3ef89dfcf6e9de357ea6b81",
+  "notes": "辰曦读书 v1.0.105 - 短剧菜单修复+有声书播放修复+音乐源导入检测+玉宁熙源适配"
 }

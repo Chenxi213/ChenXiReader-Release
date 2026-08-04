@@ -1,6 +1,6 @@
 {
-  "version": "1.0.119",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.119/ChenXiReader-win-x64.zip",
-  "sha256": "d9c182e18d933d1193ccaf0ef80d6ec953a5ae0424644a64622bd3c28e40679c",
+  "version": "1.0.120",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.120/ChenXiReader-win-x64.zip",
+  "sha256": "126fbc5c5a19c788433440d14d2c6ede1159e201ea3c094f2fde329c43689a90",
   "notes": "辰曦读书 v1.0.118 - 全局精简读屏播报+修复崩溃/搜索优化/预加载/排行榜"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "1.0.129",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.129/ChenXiReader-win-x64.zip",
-  "sha256": "cb33aa2f69f4a4dac29dca7683629069f4365ef545c3af4e818af4a8ae116d19",
-  "notes": "辰曦读书 v1.0.129 - 修复国内检测不到更新"
+  "version": "1.0.130",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.130/ChenXiReader-win-x64.zip",
+  "sha256": "803b593c43f084c27999ac0799f77329b4425c5f7cb44bd0a1b4dfa6bc67850f",
+  "notes": "辰曦读书 v1.0.130 - 修复有声书\"未找到书源\"和短剧\"Object reference not set\""
 }

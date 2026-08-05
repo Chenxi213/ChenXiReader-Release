@@ -1,6 +1,6 @@
 {
-  "version": "1.0.128",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.128/ChenXiReader-win-x64.zip",
-  "sha256": "772aea38697da3a8bd3d796778c7a334f8b2b94f6208ed766081dabd4c2184e1",
-  "notes": "辰曦读书 v1.0.128 - 彻底修复音效无声+有声书播放(下载优先+全链路日志)"
+  "version": "1.0.129",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.129/ChenXiReader-win-x64.zip",
+  "sha256": "cb33aa2f69f4a4dac29dca7683629069f4365ef545c3af4e818af4a8ae116d19",
+  "notes": "辰曦读书 v1.0.129 - 修复国内检测不到更新"
 }

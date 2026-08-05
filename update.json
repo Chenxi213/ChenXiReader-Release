@@ -1,6 +1,6 @@
 {
-  "version": "1.0.124",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.124/ChenXiReader-win-x64.zip",
-  "sha256": "ed50031dc3623a89e8f6583cf403263090f8df983efda0228aee4b0676b5f15f",
-  "notes": "v1.0.124: 彻底修复音效无声(用NAudio替换SoundPlayer)+搜索提速(超时5s->3s,总超时25s->18s)+修复有声书搜索返回错误结果(短剧混入)"
+  "version": "1.0.125",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.125/ChenXiReader-win-x64.zip",
+  "sha256": "c6f9591506ba2543f64c085f8f822270c08f4f7d9ee402fc855678ddc78482e9",
+  "notes": "v1.0.125: 修复QQ音乐排行榜无歌曲(songlist小写+数据嵌套在data内+FindArray不区分大小写)+修复番茄巅峰榜book_list在根层级解析+番茄阅读榜改用category_id=0单次API调用(与官方App一致)"
 }

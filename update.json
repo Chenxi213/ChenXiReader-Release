@@ -1,6 +1,6 @@
 {
   "version": "1.0.126",
   "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.126/ChenXiReader-win-x64.zip",
-  "sha256": "0b9bb384416a64a92d1e9dab13413a1d81a93c25b356a552dd1ed83caef31480",
-  "notes": "v1.0.126: 紧急修复搜索功能\n1. 恢复搜索超时(25s总/5s单服务器,之前误改为18s/3s导致搜索超时)\n2. 移除HasExplicitTab单tab搜索限制(之前t:/d:前缀只搜单个tab,现在恢复搜全部3个tab)\n3. 移除有声书/短剧结果过滤(之前过滤太激进导致结果被删光)\n4. SoundService.PreloadAll加try-catch防崩溃\n保留v1.0.125的排行榜修复(QQ音乐+番茄巅峰榜+番茄阅读榜)"
+  "sha256": "b0ae87c1f947d5a53df70112546ca7d4e834269aa1a4fb657ab16424c1772219",
+  "notes": "辰曦读书 v1.0.118 - 全局精简读屏播报+修复崩溃/搜索优化/预加载/排行榜"
 }

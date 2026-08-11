@@ -1,6 +1,6 @@
 {
-  "version": "1.0.140",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.140/ChenXiReader-win-x64.zip",
-  "sha256": "6e8e26a7557741db1c0f62a3a05b7a94eeae3e409af14b9a3d95b3dc04ff5d5b",
-  "notes": "辰曦读书 v1.0.140 - 彻底回退到v1.0.137基线+保留有效修复"
+  "version": "1.0.141",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.141/ChenXiReader-win-x64.zip",
+  "sha256": "626a9caaafc2457715cee0c4f9b741b971059e30c234731f1e55fef1a1242601",
+  "notes": "辰曦读书 v1.0.141 - 修复标题乱码+新增快捷键"
 }

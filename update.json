@@ -1,6 +1,6 @@
 {
-  "version": "1.0.134",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.134/ChenXiReader-win-x64.zip",
-  "sha256": "f9759e1e23d9cfe826057f470296186a41dc282efd298b6ad6bd42dcaf05b89f",
-  "notes": "辰曦读书 v1.0.134 - 修复番茄有声书播放+流式优先提速"
+  "version": "1.0.135",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.135/ChenXiReader-win-x64.zip",
+  "sha256": "a721c926a32a0bf28a69b7016d01a78ecc5ec4cbd77beaecbca51abd5b0f660c",
+  "notes": "辰曦读书 v1.0.135 - 番茄有声书自动切换聚合源+AI音色库对齐+清理失效影视源"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "1.0.137",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.137/ChenXiReader-win-x64.zip",
-  "sha256": "4f0b9c3126a15444ba07bb9ca8344841e5285a324597e7e7a90183b155ece46b",
-  "notes": "辰曦读书 v1.0.137 - 彻底修复有声书聚合源搜索"
+  "version": "1.0.138",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.138/ChenXiReader-win-x64.zip",
+  "sha256": "958027d1f4fc08abd392b0baa540b21f712f467c4e8a5df6f970e64d516d31d9",
+  "notes": "辰曦读书 v1.0.138 - 修复番茄章节目录显示+听书/短剧自动切换源"
 }

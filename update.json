@@ -1,6 +1,6 @@
 {
-  "version": "1.0.138",
-  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.138/ChenXiReader-win-x64.zip",
-  "sha256": "958027d1f4fc08abd392b0baa540b21f712f467c4e8a5df6f970e64d516d31d9",
-  "notes": "辰曦读书 v1.0.138 - 修复番茄章节目录显示+听书/短剧自动切换源"
+  "version": "1.0.139",
+  "downloadUrl": "https://github.com/Chenxi213/ChenXiReader-Release/releases/download/v1.0.139/ChenXiReader-win-x64.zip",
+  "sha256": "75f27cfb8baf5598147da7d399d90ee84cf1f5c26b164009ff0060b5429f742f",
+  "notes": "辰曦读书 v1.0.139 - 紧急修复v1.0.138回归（番茄有声书播放+进入列表慢）"
 }
